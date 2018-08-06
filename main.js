@@ -22,7 +22,7 @@ bot.commandes = new Discord.Collection();
         });
 
         var prefix = "p!";
-        var token = "NDc1MjkzMzExNTAyOTA5NDY0.DkoD1w.Or117kmvszmKqbpKuzj5MK9A6qc";
+        var token = "";
 
 
 bot.on("ready", async () => {
